@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vin-Renoux
-- 👀 I’m interested in gaming
-- 🌱 I’m currently learning Bachelor of Software Engineering at UTS
-- 💞️ I’m looking to collaborate on [nothing yet]
+- 👀 I’m interested in frontend development
+- 🌱 I’m currently a 3rd year, Bachelor of Software Engineering student at UTS
+- 💞️ I’m looking to collaborate on Startups with potential
 - 📫 How to reach me...
 
 <!---
